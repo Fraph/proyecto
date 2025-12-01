@@ -1,7 +1,7 @@
 # 1. Análisis del sector tecnológico
 > En esta parte, usare como estandar del sector en Sevilla la informacion del techpark de sevilla (en la cartuja).
 
-![tpn](/UD1/img/techpark.jpg)
+![tpn](/UD1/UD1/img/techpark.jpg)
 
 ## Situacion actual del sector tecnologico en sevilla
 
@@ -26,4 +26,5 @@ La especializacion
 
 1.  **Administración de infraestructuras críticas:** Para soportar la carga de trabajo de las casi 600 empresas del parque tecnológico.
 2.  **Seguridad en redes corporativas:** Vital para proteger los activos de un sector que crece a doble dígito.
+
 3.  **Virtualización y Cloud:** Tecnologías obligatorias para las 251 *startups* sevillanas que requieren despliegues rápidos y flexibles.
